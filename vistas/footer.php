@@ -1,13 +1,18 @@
-<footer class="main-foooter">
-    <div class="pull-right hidden-xs">
-        <b>Version</b> 1.0
-    </div>
-
-    <strong>Cpyright &copy; 2020 COVID-19 <a href="curl https://corona-stats.online/">SISTEMA UMG</a></strong> All rights reservados.
-    </footer>
-
-    <!--JQUERY-->
+<footer class="main-footer">
+        <div class="pull-right hidden-xs">
+          <b>Version</b> 1.0
+        </div>
+        <strong>Copyright &copy; 2020 <a href="www.digicom.com.gt">DigicomIT</a>.</strong> All rights reserved.
+    </footer>    
+    <!-- jQuery -->
     <script src="../public/js/jquery-3.1.1.min.js"></script>
+    <!-- Bootstrap 3.3.5 -->
+    <script src="../public/js/bootstrap.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="../public/js/app.min.js"></script>
+
+    <!-- DATATABLES -->
+    <script src="../public/datatables/jquery.dataTables.min.js"></script>    
     <script src="../public/datatables/dataTables.buttons.min.js"></script>
     <script src="../public/datatables/buttons.html5.min.js"></script>
     <script src="../public/datatables/buttons.colVis.min.js"></script>
@@ -17,5 +22,5 @@
 
     <script src="../public/js/bootbox.min.js"></script> 
     <script src="../public/js/bootstrap-select.min.js"></script>  
-    </body>
-    </html>
+  </body>
+</html>
